@@ -36,7 +36,7 @@
 - `Alamofire`
 - `CoreData`
 - `NSCache` (для кэширования изображений)
-- `URLSession` (через Alamofire)
+- `Alamofire`
 - `UITableView` + Pull-to-Refresh
 - `UINavigationController`
 
@@ -47,4 +47,4 @@
 1. **Склонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/your-username/social-feed-app.git
+git clone https://github.com/NakhidGadzhaliev/SocialFeed.git
